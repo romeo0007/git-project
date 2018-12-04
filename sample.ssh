@@ -1,3 +1,7 @@
 #!/bin/bash
 ## sample shell script for GIT project
 echo "making changes for the observation" # change made
+
+Version 2
+
+
