@@ -1,185 +1,3 @@
-whoami
-user
-who
-man who
-clear
-vi .bashrc
-echo $FBANE
-echo $FNAME
-vi .bashrc
-clear
-ls 
-ls -a
-cat .bashrc
-cat .bash_profile
-clear
-vi .bashrc
-clear
-ls -la
-clear
-nano .bashrc
-exit
-echo $FNAME
-nano .bashrc
-source .bashrc
-echo $FNAME
-echo $LNAME
-clear
-exit
-echo $FNAME
-source .bashrc
-echo $FNAME
-clear
-nano .bashrc
-nano /etc/profile
-clear
-source .bashrc
-echo $MNAME
-nano .bashrc
-source /etc/profile
-echo  $MNAME
-clear
-exit
-echo $MNAME
-echo $LNAME
-source .bashrc
-echo $LNAME
-nano .bashrc
-clear
-$LNAME
-$MNAME
-read var1
-echo $var1
-clear
-ls
-cd ~
-ls
-cd scripts/
-ls
-vi read.sh
-chmod 755 read.sh 
-./read.sh 
-clar
-clear
-ls
-vi user.sh
-chmod 755 user.sh 
-./user.sh
-clear
-nano user.sh 
-./user.sh
-clear
-nano user.sh 
-./user.sh
-nano user.sh 
-read var1
-echo $var
-echo $var1
-clear
-vi user.sh 
-nano user.sh 
-./user.sh 
-clear
-ls
-nano read.sh 
-./read.sh 
-clear
-exit
-clear
-cd ~
-ls
-cd sc
-sc scripts/
-cd scripts/
-ls
-clear
-ip addr show
-clear
-ls
-nano read.sh 
-./read.sh
-clear
-vi addition.sh
-chmod 755 addition.sh 
-./addition.sh 
-nano addition.sh 
-./addition.sh 
-35+15
-nano addition.sh 
-./addition.sh 
-nano addition.sh 
-clear
-ls
-vi mkdir.sh
-chmod 755 mkdir.sh 
-./mkdir.sh 
-ls
-./mkdir.sh 
-ls
-vi if.sh
-chmod 755 if.sh 
-./if.sh
-nano if.sh 
-./if.sh
-clear
-nano if.sh 
-./if.sh 
-nano if.sh 
-./if.sh 
-nano if.sh 
-./if.sh 
-./if.sh 20
-./if.sh 2
-nano if.sh 
-./if.sh
-clear
-./if.sh
-clear
-ls
-ls ; pwd
-ls ; date
-ls;pwd
-lssdf ; pwd
-$?
-echo $?
-clear
-echo $PWD ; ls
-ls ; date ; pwd; asdf; cal
-pwdas && ls
-pwd && ls
-pwd && asdf
-asf && ls
-pwd && asdf && cal
-clear
-ls : pwd
-clear
-ls ; pwd
-vi if2.sh
-rm -rf if2.sh 
-clear
-ls
-nano if.sh 
-./if.sh 
-clear
-nano if.sh 
-./if.sh 
-clear
-nano if.sh 
-./if.sh 
-clear
-vi if2.sh
-chmod 755 if2.sh 
-./if2.sh 
-./if2.sh 20
-nano if2.sh 
-./if2.sh 
-nano if2.sh 
-./if2.sh
-clear
-nano if2.sh 
-./if2.sh 
-./if2.sh 45
-./if2.sh 21
 nano if2.sh 
 clear
 ./if2.sh 35
@@ -996,5 +814,187 @@ clear
 systemctl service network
 systemctl service network.service
 systemctl status network.service
+clear
+exit
+clear
+kill -l
+ls ./
+ls /
+ls /rtc
+ls /etc
+clear
+ls
+pwd
+cd ~
+ls
+cd scripts/
+ls
+clear
+ls
+cd ..
+ls
+clear
+ls
+cat an
+cat animals.txt 
+rm -rf animals.txt 
+clear
+ls
+cat new-animals.txt 
+rm -rf ne-q
+rm -rf new-animals.txt 
+ls -la
+clear
+ls
+ls -la
+clear
+git init
+ls -la
+clear
+ls
+ls -la
+cd .git/
+ls
+cd /
+git status
+cd ~
+ls
+clear
+git add origi https://github.com/romeo0007/git-project.git
+git add origin https://github.com/romeo0007/git-project.git
+clear
+ls
+clear
+git remote add origin "https://github.com/romeo0007/git-project.git"
+ls
+git pull origin master
+ls
+ls -la
+ls -ltr
+ls -latr
+clear
+ls -lt
+clear
+git pull origin master
+ls
+clear
+ls
+cat sample.ssh 
+clear
+git pull origin master
+clear
+cat sm
+cat sample.ssh 
+clear
+cd scripts/
+ls
+git status
+clear
+cd ..
+ls
+git status
+git
+git show
+clear
+ls
+cd scripts/
+git status
+cd..
+cd ..
+git status
+git --status
+git status
+vagrant
+clear
+git
+git log
+clear
+git status
+git add anaconda-ks.cfg
+git status
+git commit
+git add
+clear
+touch notes.txt
+ls
+git status
+clear
+ls
+git add notes.txt
+git status
+clear
+git status
+git commit 
+git commit -m "first commit"
+git status
+clear
+ls
+clear
+git status
+ls
+touch notes1.txt
+git status
+clear
+ls
+git status
+cat sample.ssh 
+nano sample.ssh 
+clear
+ git status
+git add *
+git status
+git commit -m "full commit" *
+git commit * -m "full commit"
+clear
+git status
+git add -A
+git status
+git commit -a -m "second full commit"
+git status
+clear
+ls
+rm -rf notes1.txt 
+ls
+git status
+git commit -m "notes1 deleted"
+clear
+git log
+git
+git commit
+clear
+exit
+clear
+cd ~
+clear
+ls
+clear
+cmd
+pwd
+git log
+clear
+cd scripts/
+cd ..
+cd..
+cd ..
+ls
+cd ~
+ls
+git branch firstbranch
+ls
+git checkout firstbranch 
+git status
+cd ..
+ls
+git status
+cd ~
+ls
+git status
+ls
+touch notes1.txt
+git status
+git add notes1.txt
+git status
+git commit * 
+git status
 clear
 exit
