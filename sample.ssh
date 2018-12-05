@@ -1,7 +1,11 @@
 #!/bin/bash
 ## sample shell script for GIT project
 echo "making changes for the observation" # change made
+<<<<<<< HEAD
 
 Version 2
 
 
+=======
+echo "changes made"
+>>>>>>> b572a81c8e8541601358a9518e78838d3489a221
